@@ -1,11 +1,10 @@
 # GT-DOS
 
-<img width="3488" height="4640" alt="IMG_20261116_180924" src="https://github.com/user-attachments/assets/aa88a70a-634b-4783-b8f8-58f3faf5d5b7" />
-
 WARNING:These files are officially licensed; I recommend that you read the LICENSE file.
 
-GT-DOS is a DOS-based opera<img width="3000" height="4000" alt="IMG_20261118_213315" src="https://github.com/user-attachments/assets/57b35c68-d0f0-4c5b-9785-b07998fe75a5" />
-ting system; it is simple, fast, and highly minimalist. It utilizes a terminal-based interface where you enter commands into a command line on the screen. You can use the "help" command to view available commands.
+GT-DOS is a DOS-based operaiting system; it is simple, fast, and highly minimalist. It utilizes a terminal-based interface where you enter commands into a command line on the screen. You can use the "help" command to view available commands.
+
+<img width="3000" height="4000" alt="IMG_20261118_213315" src="https://github.com/user-attachments/assets/57b35c68-d0f0-4c5b-9785-b07998fe75a5" />
 
 HOW TO INSTALL GT-DOS
 
