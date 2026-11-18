@@ -1,4 +1,8 @@
 # GT-DOS
+
+WARNING
+These files are officially licensed; I recommend that you read the LICENSE file.
+
 GT-DOS is a DOS-based operating system; it is simple, fast, and highly minimalist. It utilizes a terminal-based interface where you enter commands into a command line on the screen. You can use the "help" command to view available commands.
 
 HOW TO INSTALL GT-DOS
