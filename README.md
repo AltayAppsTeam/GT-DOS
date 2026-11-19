@@ -4,6 +4,8 @@ WARNING:These files are officially licensed; I recommend that you read the LICEN
 
 GT-DOS is a DOS-based operating system; it is simple, fast, and highly minimalist. It utilizes a terminal-based interface where you enter commands into a command line on the screen. You can use the "help" command to view available commands.
 
+GT-DOS is completely open-source; you can find the source code inside the "src" folder.
+
 
 <img width="3000" height="4000" alt="IMG_20261118_213315" src="https://github.com/user-attachments/assets/57b35c68-d0f0-4c5b-9785-b07998fe75a5" />
 
