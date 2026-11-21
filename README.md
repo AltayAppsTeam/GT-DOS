@@ -2,7 +2,7 @@
 
 WARNING:These files are officially licensed; I recommend that you read the LICENSE file.
 
-Welcome to GT-DOS! This is a simple and fast terminal system that I built myself, designed to run in a DOS environment. It is licensed under the BSD 3-Clause license. GT-DOS is open source; you can find the source code in the "src" folder!
+Welcome to GT-DOS! This is a simple and fast terminal system that I built myself, designed to run in a DOS environment. GT-DOS is open source; you can find the source code in the "src" folder!
 Please consider supporting my work—thank you all in advance!
 
 GT-DOS is completely open-source; you can find the source code inside the "src" folder.
